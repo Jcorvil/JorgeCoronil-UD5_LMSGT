@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Libreria.xsl"?>
+<libreria>
+    <libro>
+        <titulo>Physics-based animation</titulo>
+        <autor>Kenny Erleben</autor>
+        <editor>Charles River Media</editor>
+        <isbn>978-1584503804</isbn>
+        <precio>50.06</precio>
+        <numPaginas>500</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Principios de seguridad informática para usuarios</titulo>
+        <autor>Carlos Garre</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-998-8</isbn>
+        <precio>13.00</precio>
+        <numPaginas>450</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Ejercicio complementarios de lógica digital</titulo>
+        <autor>Alberto Sánchez</autor>
+        <editor>Dykinson</editor>
+        <isbn>978-84-9849-703-8</isbn>
+        <precio>12.00</precio>
+        <numPaginas>520</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Uzumaki</titulo>
+        <autor>Junji Ito</autor>
+        <editor>Planeta de Agostini</editor>
+        <isbn>978-84-914-6584-3</isbn>
+        <precio>10.00</precio>
+        <numPaginas>656</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Lodoss War La Bruja Gris (Edición Integral)</titulo>
+        <autor>Ryo Mizuno</autor>
+        <editor>Planeta Comic</editor>
+        <isbn>978-84-684-7567-7</isbn>
+        <precio>10.00</precio>
+        <numPaginas>600</numPaginas>
+    </libro>
+    <libro>
+        <titulo>Tomie</titulo>
+        <autor>Junji Ito</autor>
+        <editor>ECC</editor>
+        <isbn>978-84-185-6952-4</isbn>
+        <precio>10.00</precio>
+        <numPaginas>752</numPaginas>
+    </libro>
+    <libro>
+        <titulo>El capitán Alatriste</titulo>
+        <autor>Arturo Pérez Reverte</autor>
+        <editor>Alfaguara</editor>
+        <isbn>978-84-204-8353-5</isbn>
+        <precio>10.50</precio>
+        <numPaginas>248</numPaginas>
+    </libro>
+    <libro>
+        <titulo>La tabla de Flandes</titulo>
+        <autor>Arturo Pérez Reverte</autor>
+        <editor>Debolsillo</editor>
+        <isbn>978-84-845-0262-3</isbn>
+        <precio>12.50</precio>
+        <numPaginas>416</numPaginas>
+    </libro>
+</libreria>
