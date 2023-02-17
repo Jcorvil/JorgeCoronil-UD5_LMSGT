@@ -5,7 +5,7 @@
             <body>
                 <h1>Mi biblioteca personal</h1>
                     <table>
-                        <tr bgcolor="#BEDDFF">
+                        <tr bgcolor="#38DCC3">
                             <th>ISBN</th>
                             <th>Título</th>
                             <th>Autor</th>
@@ -14,19 +14,34 @@
                         <xsl:for-each select="libreria/libro">
                             <tr>
                                 <xsl:choose>
-                                        <td><xsl:value-of select="isbn"/></td>
-                                        <td><xsl:value-of select="titulo"/></td>
-                                        <td><xsl:value-of select="autor"/></td>
-                                    <xsl:when test="precio &gt; 25">
-                                        <td bgcolor="FF2B2B">
+                                    <xsl:when test="precio &lt; '25'">
+                                        <td bgcolor="#FF2B2B">
+                                            <xsl:value-of select="isbn"/>
+                                        </td>
+                                        <td bgcolor="#FF2B2B">
+                                            <xsl:value-of select="titulo"/>
+                                        </td>
+                                        <td bgcolor="#FF2B2B">
+                                            <xsl:value-of select="autor"/>
+                                        </td>
+                                        <td bgcolor="#FF2B2B">
                                             <xsl:value-of select="precio"/>
                                         </td>
                                     </xsl:when>
-                                    <xsl:otherwise>
-                                        <td bgcolor="51BD2A">
+                                    <xsl:when test="precio &gt; '25'">
+                                        <td bgcolor="#51BD2A">
+                                            <xsl:value-of select="isbn"/>
+                                        </td>
+                                        <td bgcolor="#51BD2A">
+                                            <xsl:value-of select="titulo"/>
+                                        </td>
+                                        <td bgcolor="#51BD2A">
+                                            <xsl:value-of select="autor"/>
+                                        </td>
+                                        <td bgcolor="#51BD2A">
                                             <xsl:value-of select="precio"/>
                                         </td>
-                                    </xsl:otherwise>
+                                    </xsl:when>
                                 </xsl:choose>
                             </tr>
                         </xsl:for-each>

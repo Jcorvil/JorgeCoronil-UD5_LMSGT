@@ -13,7 +13,7 @@
                             </tr>
                             <xsl:for-each select="libreria/libro[autor!='Junji Ito']">
                             <!-- <xsl:for-each select="libreria/libro[autor='Junji Ito']"> -->
-                                <!-- <xsl:sort select="precio"/> -->
+                                <xsl:sort select="precio"/>
 
                                     <tr>
                                         <td><xsl:value-of select="isbn"/></td>
