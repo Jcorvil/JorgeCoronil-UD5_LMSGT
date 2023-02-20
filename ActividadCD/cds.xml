@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p1.xsl"?>
+<listaCDs>
+    <cd>
+        <tituloAlbum>Empty Hiding World</tituloAlbum>
+        <artista>Windows96</artista>
+        <canciones>
+            <cancion tiempo="241">Edenic Green Plus //Duración: 04:01 </cancion>
+            <cancion tiempo="173">Extreme Violet //Duración: 02:53 </cancion>
+            <cancion tiempo="185">Ascending Red //Duración: 03:05 </cancion>
+            <cancion tiempo="205">Many Years //Duración: 03:25 </cancion>
+            <cancion tiempo="147">Fase //Duración: 02:27 </cancion>
+            <cancion tiempo="180">Reason Why //Duración: 03:00 </cancion>
+            <cancion tiempo="196">Inwite //Duración: 03:16 </cancion>
+        </canciones>
+        <discografica>Bandcamp</discografica>
+        <annoPublicacion>04/03/2022</annoPublicacion>
+    </cd>
+    <cd>
+        <tituloAlbum>Magic Peaks</tituloAlbum>
+        <artista>Windows96</artista>
+        <canciones>
+            <cancion tiempo="174">Looking Forward //Duración: 02:54 </cancion>
+            <cancion tiempo="174">Discovery //Duración: 02:54 </cancion>
+            <cancion tiempo="172">Orpheus //Duración: 02:52 </cancion>
+            <cancion tiempo="170">Expect //Duración: 02:50 </cancion>
+            <cancion tiempo="183">Not Anymore //Duración: 03:03 </cancion>
+            <cancion tiempo="161">Fragments //Duración: 02:51 </cancion>
+            <cancion tiempo="194">Skysail //Duración: 03:14 </cancion>
+        </canciones>
+        <discografica>Bandcamp</discografica>
+        <annoPublicacion>12/11/2021</annoPublicacion>
+    </cd>
+    <cd>
+        <tituloAlbum>One Hundred Mornings</tituloAlbum>
+        <artista>Windows96</artista>
+        <canciones>
+            <cancion tiempo="316">Caligula //Duración: 05:16 </cancion>
+            <cancion tiempo="119">Visage //Duración: 01:59 </cancion>
+            <cancion tiempo="157">Abstract //Duración: 02:37 </cancion>
+            <cancion tiempo="169">Visions I //Duración: 02:49 </cancion>
+            <cancion tiempo="214">Visions II //Duración: 03:34 </cancion>
+            <cancion tiempo="234">Bliss //Duración: 03:54 </cancion>
+            <cancion tiempo="216">Languages //Duración: 03:36 </cancion>
+            <cancion tiempo="194">Rituals //Duración: 03:14 </cancion>
+            <cancion tiempo="300">Mind Mirage //Duración: 05:00 </cancion>
+        </canciones>
+        <discografica>Bandcamp</discografica>
+        <annoPublicacion>13/07/2018</annoPublicacion>
+    </cd>
+    <cd>
+        <tituloAlbum>Nematophy</tituloAlbum>
+        <artista>Windows96</artista>
+        <canciones>
+            <cancion tiempo="228">lonely afternoon //Duración: 03:48 </cancion>
+            <cancion tiempo="220">endless wave //Duración: 03:40 </cancion>
+            <cancion tiempo="172">u know //Duración: 02:52 </cancion>
+            <cancion tiempo="177">whitenoiseistruthfull //Duración: 02:57 </cancion>
+            <cancion tiempo="223">dashvile //Duración: 03:43 </cancion>
+            <cancion tiempo="250">bad morning //Duración: 04:10 </cancion>
+            <cancion tiempo="193">weekdays //Duración: 03:13 </cancion>
+        </canciones>
+        <discografica>Soundcloud</discografica>
+        <annoPublicacion>13/12/2016</annoPublicacion>
+    </cd>
+    <cd>
+        <tituloAlbum>Reflections</tituloAlbum>
+        <artista>Windows96</artista>
+        <canciones>
+            <cancion tiempo="287">Are you sad enough? //Duración: 04:27 </cancion>
+            <cancion tiempo="235">Cruising //Duración: 03:55 </cancion>
+            <cancion tiempo="228">Drive slow //Duración: 03:48 </cancion>
+            <cancion tiempo="206">Kruising //Duración: 03:26 </cancion>
+            <cancion tiempo="223">Wasted Wind //Duración: 03:43 </cancion>
+            <cancion tiempo="218">No Future //Duración: 03:38 </cancion>
+            <cancion tiempo="278">Chasing the Sun //Duración: 04:38 </cancion>
+        </canciones>
+        <discografica>Soundcloud</discografica>
+        <annoPublicacion>20/03/2017</annoPublicacion>
+    </cd>
+    <cd>
+        <tituloAlbum>Gradient Horizont</tituloAlbum>
+        <artista>Windows96</artista>
+        <canciones>
+            <cancion tiempo="224">Youthful Waters //Duración: 03:44</cancion>
+            <cancion tiempo="199">Transient Feeling //Duración: 03:19</cancion>
+            <cancion tiempo="267">A Cry in the Distance //Duración: 04:27</cancion>
+            <cancion tiempo="172">Vision //Duración: 02:52</cancion>
+            <cancion tiempo="181">Gradual Paths //Duración: 03:01</cancion>
+            <cancion tiempo="144">Origami //Duración: 02:24</cancion>
+            <cancion tiempo="214">Last Hours //Duración: 03:34</cancion>
+        </canciones>
+        <discografica>Bandcamp</discografica>
+        <annoPublicacion>20/10/2017</annoPublicacion>
+    </cd>
+    <cd>
+        <tituloAlbum>Nostalgi Gaius</tituloAlbum>
+        <artista>Gudang</artista>
+        <canciones>
+            <cancion tiempo="155">Don't tell me why //Duración: 02:35</cancion>
+            <cancion tiempo="144">Software //Duración: 02:22</cancion>
+            <cancion tiempo="187">Strange pills //Duración: 03:07</cancion>
+            <cancion tiempo="194">Nunca //Duración: 03:14</cancion>
+            <cancion tiempo="180">Always //Duración: 03:00</cancion>
+            <cancion tiempo="177">Augustus //Duración: 02:57</cancion>
+            <cancion tiempo="200">Anytime you want //Duración: 03:20</cancion>
+            <cancion tiempo="244">One day //Duración: 04:04</cancion>
+        </canciones>
+        <discografica>Bandcamp</discografica>
+        <annoPublicacion>13/04/2018</annoPublicacion>
+    </cd>
+    <cd>
+        <tituloAlbum>Glass Prism</tituloAlbum>
+        <artista>Windows96</artista>
+        <canciones>
+            <cancion tiempo="234">I Swear //Duración: 03:54</cancion>
+            <cancion tiempo="205">Underwater //Duración: 03:25</cancion>
+            <cancion tiempo="210">Glass Prism //Duración: 03:30</cancion>
+            <cancion tiempo="171">Laugh Away //Duración: 02:51</cancion>
+            <cancion tiempo="246">En Route //Duración: 04:06</cancion>
+            <cancion tiempo="162">Inicio //Duración: 02:42</cancion>
+            <cancion tiempo="190">Fondamentalement //Duración: 03:10</cancion>
+        </canciones>
+        <discografica>Bandcamp</discografica>
+        <annoPublicacion>22/05/2020</annoPublicacion>
+    </cd>
+    <cd>
+        <tituloAlbum>Enchanted Instrumentals and Whispers</tituloAlbum>
+        <artista>Windows96</artista>
+        <canciones>
+            <cancion tiempo="256">Deep Swim //Duración: 04:16</cancion>
+            <cancion tiempo="199">Hazy Trip //Duración: 03:19</cancion>
+            <cancion tiempo="153">Exordium //Duración: 02:33</cancion>
+            <cancion tiempo="288">Venus Aire //Duración: 04:48</cancion>
+            <cancion tiempo="175">Hello Earth //Duración: 02:55</cancion>
+            <cancion tiempo="255">Hypnosis //Duración: 04:15</cancion>
+            <cancion tiempo="198">Bonita Camisa //Duración: 03:18</cancion>
+        </canciones>
+        <discografica>Bandcamp</discografica>
+        <annoPublicacion>26/04/2019</annoPublicacion>
+    </cd>
+    <cd>
+        <tituloAlbum>In the Worlde</tituloAlbum>
+        <artista>Gavriel</artista>
+        <canciones>
+            <cancion tiempo="209">2000 //Duración: 03:29</cancion>
+            <cancion tiempo="174">Real Real //Duración: 02:54</cancion>
+            <cancion tiempo="192">Star Level //Duración: 03:12</cancion>
+            <cancion tiempo="179">Star Level II //Duración: 02:59</cancion>
+            <cancion tiempo="105">Stargaze //Duración: 01:45</cancion>
+            <cancion tiempo="140">Questing //Duración: 02:20</cancion>
+            <cancion tiempo="162">Heals //Duración: 02:42</cancion>
+        </canciones>
+        <discografica>Bandcamp</discografica>
+        <annoPublicacion>11/07/2017</annoPublicacion>
+    </cd>
+    
+</listaCDs>
