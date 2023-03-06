@@ -15,7 +15,7 @@
             </STYLE>
             <body>
                 <h1>Lista de CDs</h1>
-                    <table>
+                <table border="1">
                         <tr bgcolor="#BEDDFF">
                             <th>Album</th>
                             <th>Artista</th>
